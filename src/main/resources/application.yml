@@ -1,3 +1,10 @@
 micronaut:
   application:
-    name: resourceReadableDemo
+    name: Loading Resources in Micronaut using Readable Demo
+images:
+  image-file: "classpath:images/bismarckia-nobilis.jpg"
+  # image-file: "file:/path/to/images/bismarckia-nobilis.jpg"
+  other-files:
+    - "classpath:images/bismarckia-nobilis.jpg"
+    - "classpath:images/bamboo.jpg"
+    - "classpath:images/hibiscus.jpg"
