@@ -1,5 +1,7 @@
 # Demo: Loading Resources in Micronaut using Readable
 
+[![Build Status](https://github.com/ghillert/resource-readable-demo/workflows/Java%20CI%20with%20Maven/badge.svg)](https://github.com/ghillert/resource-readable-demo/actions)
+
 In this demo I show have you can use [Micronaut's](https://micronaut.io/)
 [Readable](https://docs.micronaut.io/latest/api/io/micronaut/core/io/Readable.html)
 interface to load resources from either the classpath, or the filesystem in an
